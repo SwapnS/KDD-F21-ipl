@@ -1,6 +1,6 @@
 # KDD-F21-ipl
 
-## team Members:
+## Team Members:
 1) Swapn Shah
 2) Snigdha Bhagat 
 3) Mohammed Sharik U Zama
@@ -13,7 +13,7 @@ IPL is a franchise-based T-20 Cricket competition organized by BCCI (Board of Co
 
 Data Analytics has been a part of Sports entertainment for a long time and being a cricket fan visualizing the statistics of cricket is mesmerizing. With the help of past data and knowledge base, we aim to use the Existing Data Analysis and Machine learning techniques to predict the winner of a particular IPL match.
 
-## Research Questions.
+## Research Questions:
 
 Results of every match in the IPL depends on the various conditions like venue, player performance, toss, performance in power play etc.
 
@@ -26,6 +26,6 @@ By using this information, we are planning to build a classifier which predicts 
 
 Also, a regression task can be implemented which can predict runs scored by current batting team at the end of the inning.
 
-## Data Sources. 
+## Data Sources: 
 1) https://www.kaggle.com/patrickb1912/ipl-complete-dataset-20082020
 2) https://stats.espncricinfo.com/ci/engine/records/index.html?id=117;type=trophy
