@@ -25,6 +25,12 @@ We aim to develop some meaningful features such as prior probabilities of winnin
 By using this information, we are planning to build a classifier which predicts the winning probabilities for the playing teams.
 
 Also, a regression task can be implemented which can predict runs scored by current batting team at the end of the inning.
+//Target Population- Cricketers playing in various teams of Indian Premier League from 2008 to 2020.
+Results of every match in the IPL depends on the various conditions like venue, player performance, toss, performance in power play etc.
+//Prescriptive analysis to see which batsman is good against which bowler and vice versa.
+//Research question: "What is the probability of winning a match given features like previous player performance, venue and 
+other match related data is available."
+"What are the top features that affect the chances of winning the match."
 
 ## Data Sources: 
 1) https://www.kaggle.com/patrickb1912/ipl-complete-dataset-20082020
