@@ -21,11 +21,11 @@ Cricketers playing in various teams of Indian Premier League from 2008 to 2020.
 ## Research Questions:
 
 What is the probability of winning a match given features like previous player performance, venue and 
-other match related data is available.
+other match related data is available?
 
-What are the top features that affect the chances of winning the match.
+What are the top features that affect the chances of winning the match?
 
-Prescriptive analysis to see which batsman is good against which bowler and vice versa.
+Prescriptive analysis to see which batsman is good against which bowler and vice versa?
 
 We aim to develop some meaningful features such as prior probabilities of winning for each team, prior probability of team winning the cup etc. 
 
