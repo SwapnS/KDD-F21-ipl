@@ -29,6 +29,15 @@ Prescriptive analysis to see which batsman is good against which bowler and vice
 
 We aim to develop some meaningful features such as prior probabilities of winning for each team, prior probability of team winning the cup etc. 
 
+## Data Sources: 
+1) https://www.kaggle.com/patrickb1912/ipl-complete-dataset-20082020
+2) https://stats.espncricinfo.com/ci/engine/records/index.html?id=117;type=trophy
+
+Results of every match in the IPL depends on the various conditions like venue, player performance, toss, performance in power play etc.
+
+By using all the necessary information, we are planning to build a classifier which predicts the winning probabilities for the playing teams.
+
+Also, a regression task can be implemented which can predict runs scored by current batting team at the end of the inning.
 
 ## Exploratory Data Analysis:
 
@@ -46,12 +55,4 @@ After that, data is prepared for modeling. Here, we removed 'toss_winner' and 'w
 
 Finally, data modeling id done by using GaussianNB from sklearn library followed by computing the Accuracy Score 
 
-## Data Sources: 
-1) https://www.kaggle.com/patrickb1912/ipl-complete-dataset-20082020
-2) https://stats.espncricinfo.com/ci/engine/records/index.html?id=117;type=trophy
 
-Results of every match in the IPL depends on the various conditions like venue, player performance, toss, performance in power play etc.
-
-By using all the necessary information, we are planning to build a classifier which predicts the winning probabilities for the playing teams.
-
-Also, a regression task can be implemented which can predict runs scored by current batting team at the end of the inning.
