@@ -30,6 +30,22 @@ Prescriptive analysis to see which batsman is good against which bowler and vice
 We aim to develop some meaningful features such as prior probabilities of winning for each team, prior probability of team winning the cup etc. 
 
 
+## Exploratory Data Analysis:
+
+Exploratory Data Analysis is done on the datasets. 
+
+Firstly, several irrelavant features like 'eliminator', 'method', 'umpire1', 'umpire2', 'result_margin' and etc were removed from the datasets
+
+A dictionary with key value pair of the team's name and it's appropriate abbreviation is created. So that we can get rid of the long team names
+
+Next, missing value analysis and handling is done on the datasets. This involved imputing the null values in city based on venue.
+
+Then, the visualization of teams with most wins in IPL seasons and the team with most toss wins was done. This led on to a discovery that toss is an important factor in a IPL match. Then further exploration of data was done by looking at how the teams performed when they were batting first and bowling first.
+
+After that, data is prepared for modeling. Here, we removed 'toss_winner' and 'winner' as we have created 2 different variables similar to them previously. And we furthur encoded the remaining variables of the dataset.
+
+Finally, data modeling id done by using GaussianNB from sklearn library followed by computing the Accuracy Score 
+
 ## Data Sources: 
 1) https://www.kaggle.com/patrickb1912/ipl-complete-dataset-20082020
 2) https://stats.espncricinfo.com/ci/engine/records/index.html?id=117;type=trophy
