@@ -73,7 +73,6 @@ Then, the visualization of teams with most wins in IPL seasons and the team with
 
 After that, data is prepared for modeling. Here, we removed 'toss_winner' and 'winner' as we have created 2 different variables similar to them previously. And we furthur encoded the remaining variables of the dataset.
 
-Finally, data modeling id done by using GaussianNB from sklearn library followed by computing the Accuracy Score 
 
 
 ## Data Preparing 
