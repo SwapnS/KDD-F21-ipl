@@ -68,7 +68,7 @@ After that, data is prepared for modeling. Here, we removed 'toss_winner' and 'w
 
 ## Data Preparing 
 
-Initially, Our dataset did not had enough features for a predictive task. The average accuracy of the classifiers is around 0.50-0.55. 
+Initially, Our dataset did not had enough features for a predictive task. The average accuracy of the classifiers was around 0.50-0.55. 
 - To overcome this issue, we inroduced new features to our dataset.
 - Also we performed feature encoding to certain variables as well.
 
