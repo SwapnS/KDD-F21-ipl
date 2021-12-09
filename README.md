@@ -90,7 +90,7 @@ To predict the outcome we trained 5 different models.
 4.) XGBoost Classifier
 5.) ADABoost Classifier
 
-We also used "DataBricks" Platform to develop machine learning models online on our dataset. 
+We also used "DataRobot" Platform to develop machine learning models online on our dataset. 
 
 We used RandomizedSearch CV for hyperparameter tuning as GridsearchCV takes long time to train the model.
 
