@@ -14,16 +14,6 @@ IPL is a franchise-based T-20 Cricket competition organized by BCCI (Board of Co
 Data Analytics has been a part of Sports entertainment for a long time and being a cricket fan visualizing the statistics of cricket is mesmerizing. With the help of past data and knowledge base, we aim to use the Existing Data Analysis and Machine learning techniques to predict the winner of a particular IPL match.
 
 
-## Research Questions:
-
-What is the probability of winning a match given features like previous player performance, venue and 
-other match related data is available?
-
-What are the top features that affect the chances of winning the match?
-
-Prescriptive analysis to see which batsman is good against which bowler and vice versa
-
-We aim to develop some meaningful features such as prior probabilities of winning for each team, prior probability of team winning the cup etc. 
 
 ## Data Sources and Domain Knowledge : 
 
