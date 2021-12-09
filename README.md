@@ -56,13 +56,14 @@ Here you can observe how toss is a very important factor in a cricket match.
 
 
 - Bowling First Winning percentage
-![Bowling_first_win](https://user-images.githubusercontent.com/91851356/145313531-07e49bd0-3291-4f5f-8d6e-5b7ded7afef3.png)
+
 
 
 Here, It is evident that how some teams are good at defending a total and some teams are good at chasing a total. 
 
 
 After that, data is prepared for modeling. Here, we removed 'toss_winner' and 'winner' as we have created 2 different variables similar to them previously. And we furthur encoded the remaining variables of the dataset.
+![Bowling_First_win (1)](https://user-images.githubusercontent.com/91851356/145326641-cc1d6ea9-727a-4221-8116-fab1b888f33c.png)
 
 
 
