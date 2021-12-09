@@ -126,7 +126,7 @@ Out of all, RandomForest model achieved the highest score among all the classifi
 
 ![IPL_Model_Evaluation (2)](https://user-images.githubusercontent.com/91851356/145317992-1e39340a-9585-42e3-8f3e-3a9cdc7690e2.png)
 
--  Databricks Model Performance
+-  DataRobot Model Performance
 <img width="1200" alt="Screen Shot 2021-12-08 at 17 16 08" src="https://user-images.githubusercontent.com/91851356/145318435-c1deb2d6-9aa8-46b9-b264-b726923657a5.png">
 
 
