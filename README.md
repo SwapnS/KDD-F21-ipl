@@ -114,26 +114,26 @@ Out of all, RandomForest model achieved the highest score among all the classifi
 
 - Training Accuracy 
 
-Gaussian NB :  0.600924499229584
-Decision Tree :  0.7688751926040062
-Random Forest :  0.8382126348228043
-XGBoost  :  0.7411402157164869
-ADABoost  :  0.5731895223420647
+ * Gaussian NB :  0.600924499229584
+ * Decision Tree :  0.7688751926040062
+ * Random Forest :  0.8382126348228043
+ * XGBoost  :  0.7411402157164869
+ * ADABoost  :  0.5731895223420647
 
 
 -Test Accuracy 
 
-Gaussian NB :  0.5337423312883436
-Decision Tree :  0.5828220858895705
-Random Forest :  0.7116564417177914
-XGBoost  :  0.6809815950920245
-ADABoost  :  0.558282208588957
+* Gaussian NB :  0.5337423312883436
+* Decision Tree :  0.5828220858895705
+* Random Forest :  0.7116564417177914
+* XGBoost  :  0.6809815950920245
+* ADABoost  :  0.558282208588957
 
 
 - Cross Validation Score
 
-![IPL_Model_Evaluation (2)](https://user-images.githubusercontent.com/918
-51356/145316616-24043aef-147f-4c6a-836b-7a447a3af468.png)
+![IPL_Model_Evaluation (2)](https://user-images.githubusercontent.com/91851356/145317992-1e39340a-9585-42e3-8f3e-3a9cdc7690e2.png)
+
 
 ## Conclusion
 
