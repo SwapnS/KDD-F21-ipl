@@ -11,7 +11,7 @@ Cricket is also referred as Game of Uncertainty and there is no precise forecast
 
 IPL is a franchise-based T-20 Cricket competition organized by BCCI (Board of Control for Cricket in India). The first season of IPL was played in 2008 and its popularity is increasing ever since. Within a short period, IPL has become the highest revenue generating league of India.
 
-Data Analytics has been a part of Sports entertainment for a long time and being a cricket fan visualizing the statistics of cricket is mesmerizing. With the help of past data and knowledge base, we aim to use the Existing Data Analysis and Machine learning techniques to predict the winner of a particular IPL match.
+Data Analytics has been a part of Sports entertainment for a long time and being a cricket fan visualizing the statistics of cricket is mesmerizing. With the help of past data and knowledge base, we aim to use the Existing Data Analysis and Machine learning techniques to predict the winner of a particular IPL match after one inning.
 
 
 
@@ -23,7 +23,8 @@ Data Analytics has been a part of Sports entertainment for a long time and being
 
 Results of every match in the IPL depends on the various conditions like venue, player performance, toss, performance in power play etc.
 
-By using all the necessary information, we are planning to build a classifier which predicts the winning probabilities for the playing teams.
+By using all the necessary information, we are planning to build a classifier which predicts the winner or the winning probabilities for the playing teams
+after the first innings.
 
 Also, a regression task can be implemented which can predict runs scored by current batting team at the end of the inning.
 
@@ -125,7 +126,6 @@ Out of all, RandomForest model achieved the highest score among all the classifi
 
 - Feature Impact 
 <img width="1114" alt="Screen Shot 2021-12-08 at 16 54 17" src="https://user-images.githubusercontent.com/91851356/145318460-8a72119f-9633-48bf-94b7-aadb51c3bf18.png">
-
 
 
 ## Conclusion
