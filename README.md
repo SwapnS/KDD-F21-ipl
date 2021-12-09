@@ -49,6 +49,8 @@ Then, the visualization of teams with most wins in IPL seasons and the team with
 ![number of tosses won](https://user-images.githubusercontent.com/91851356/145313445-0c985563-83d3-4dc0-b7a5-ea193de91385.png)
 
 
+Here you can observe how toss is a very important factor in a cricket match.
+
 - Batting First Winning percentage 
 ![Batting_First_win](https://user-images.githubusercontent.com/91851356/145313485-dbc2f50b-65ba-4f57-b6e3-a32d97746467.png)
 
@@ -56,6 +58,8 @@ Then, the visualization of teams with most wins in IPL seasons and the team with
 - Bowling First Winning percentage
 ![Bowling_first_win](https://user-images.githubusercontent.com/91851356/145313531-07e49bd0-3291-4f5f-8d6e-5b7ded7afef3.png)
 
+
+Here, It is evident that how some teams are good at defending a total and some teams are good at chasing a total. 
 
 
 After that, data is prepared for modeling. Here, we removed 'toss_winner' and 'winner' as we have created 2 different variables similar to them previously. And we furthur encoded the remaining variables of the dataset.
